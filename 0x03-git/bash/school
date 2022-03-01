@@ -1,4 +1,2 @@
-
-
 #!/bin/bash
-echo "the School is so cool!"
+echo "The school is open!"
